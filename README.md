@@ -27,7 +27,7 @@ I'm a self-hosting enthusiast running Proxmox with more than a few open source a
 
 I bring decades of Windows expertise (Hello, Windows 3.1) and systems thinking to my development learning curve. I'm building competency through hands-on projects—learning by doing, voiding warranties, breaking things and (hopefully) fixing them.
 
-## ⚛️ Currently living in the Secret City at the heart of the Manhattan Project :radioactive:
+## :radioactive: Currently living in the Secret City at the heart of the Manhattan Project :radioactive:
 
 Always happy to connect with self-hosters, open source developers, and people who remember when "multimedia" meant the choice between a :floppy_disk: 3.5-inch floppy disc and a CD-R :cd: (anyone remember Zip Drives?)
           
