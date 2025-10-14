@@ -30,7 +30,12 @@ I bring decades of Windows expertise (Hello, Windows 3.1) and systems thinking t
 ## ⚛️ Currently living in the Secret City at the heart of the Manhattan Project :radioactive:
 
 Always happy to connect with self-hosters, open source developers, and people who remember when "multimedia" meant the choice between a :floppy_disk: 3.5-inch floppy disc and a CD-R :cd: (anyone remember Zip Drives?)
-
+          
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,vscode,bash,powershell,vite,ts,prometheus,grafana,cloudflare,aws,linux,tailwind,react,py,debian" />
+  </a>
+</p>
 <!--
 **Red5Rebel/Red5Rebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
