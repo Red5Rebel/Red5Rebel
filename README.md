@@ -22,7 +22,7 @@ I'm a self-hosting enthusiast running Proxmox with more than a few open source a
 - The search for extraterrestrial intelligence
   
 ### :rocket: What I know
-I bring decades of Windows expertise (Hello, Windows 3.1) and systems thinking to my development learning curve. I'm building competency through hands-on projects—learning by doing, voiding warranties, breaking things and (hopefully) fixing them.
+I bring decades of Windows expertise (Hello, Windows 3.1) and systems thinking to my development learning curve. I'm building competency through hands-on projects, learning by doing, voiding warranties, breaking things and (hopefully) fixing them.
 
 ### :radioactive: Where I am
 Currently living in the Secret City at the heart of the Manhattan Project
